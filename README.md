@@ -12,7 +12,11 @@
 - Create an Outlet in your Body Component
 - Create a footer
 
-
+- Create a login page 
+- Install Axios
+- CORS install cors in backend => add middleware to with configurations :    origin ,   credentials=true
+- whever you are making api call so pass axios => { withCredentials: true}
+- 
 
 
 BODY
